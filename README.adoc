@@ -1,4 +1,4 @@
-:exist-version:4.6.0
+:exist-version: 4.6.0
 :project-full-path: eXist-db/eclipse-plugin-db-v{exist-version}
 :github-branch: master
 = eXist Database {exist-version} Feature Plugin for Eclipse 
