@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         id="org.exist.eclipse.db.v460"
+         point="org.exist.eclipse.database"
+         name="eXist 4.6.0">
+         <database-instance
+               class="org.exist.eclipse.db.v460.ExistConnectionProvider">
+         </database-instance>
+   </extension>
+</plugin>

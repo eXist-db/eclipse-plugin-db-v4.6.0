@@ -1,0 +1,14 @@
+:exist-version:4.6.0
+:project-full-path: eXist-db/eclipse-plugin-db-v{exist-version}
+:github-branch: master
+= eXist Database {exist-version} Feature Plugin for Eclipse 
+Patrick Reinhart <https://github.com/reinhapa[@reinhapa]>
+
+image:https://img.shields.io/badge/license-EPL_2.0-blue.svg["Eclipse Public License - v 2.0", link="https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt"]
+image:https://img.shields.io/badge/Java-8-blue.svg["Java 8", link="https://travis-ci.org/{project-full-path}"]
+
+== Content
+This project contains the plugin feature to support the eXist database version {exist-version}.
+
+== License
+This project is licensed under the https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt[Eclipse Public License - v 2.0]
